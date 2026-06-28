@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;1,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, Cambria, "Times New Roman", Times, serif;
+  
+  --color-brand-bg: #FDF8F2;
+  --color-brand-text: #4A3F35;
+  --color-[#4e3629]: #4A3F35;
+  --color-[#4c2e25]: #3A322B;
+  --color-[#5c3e35]: #4A3F35;
+  --color-[#faf6f0]: #FDF8F2;
+}
+
+.serif {
+  font-family: 'Playfair Display', serif;
+}
+
+.orb-glow {
+  box-shadow: 0 0 60px 10px rgba(245, 158, 11, 0.3);
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}

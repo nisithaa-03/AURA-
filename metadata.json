@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Adaptive Universal Reality Assistant — a premium, personalized accessibility and reality companion.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
