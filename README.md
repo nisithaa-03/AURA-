@@ -1,4 +1,4 @@
-# 🌟 AURA – AI Reality Companion for Accessible Living
+# AURA – AI Reality Companion for Accessible Living
 
 > **Empowering people with disabilities through Multimodal AI and Intelligent Automation.**
 
@@ -6,7 +6,7 @@ AURA is an AI-powered accessibility companion that helps people with disabilitie
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Millions of people with disabilities struggle with everyday digital and physical interactions.
 
@@ -25,9 +25,9 @@ AURA bridges this gap by acting as an intelligent accessibility companion.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🌍 Reality Companion
+### Reality Companion
 
 * Real-time scene understanding
 * Object and obstacle detection
