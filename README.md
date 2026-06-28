@@ -257,7 +257,7 @@ Aura continues assisting after submission by:
 * Providing ongoing accessibility support
 ---
 
-# 🚀 Installation & Setup
+#  Installation & Setup
 
 ## Prerequisites
 
@@ -331,7 +331,7 @@ AURA/
 
 ---
 
-# 🔮 Future Scope
+# Future Scope
 
 We envision AURA evolving into a comprehensive AI accessibility ecosystem by introducing:
 
@@ -348,7 +348,7 @@ We envision AURA evolving into a comprehensive AI accessibility ecosystem by int
 
 ---
 
-# 👥 Contributors
+#  Contributors
 
 **Nisithaa**
 
@@ -356,7 +356,7 @@ Built for **UiPath AgentHack 2026**
 
 ---
 
-# ❤️ Acknowledgements
+#  Acknowledgements
 
 We would like to thank UiPath for organizing AgentHack and providing an opportunity to build AI-powered automation solutions that create meaningful real-world impact.
 
