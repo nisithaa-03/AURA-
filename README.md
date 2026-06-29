@@ -1,6 +1,6 @@
 #  AURA
 
-## Accessible Unified Reality Assistant
+## Adaptive Universal Reality Assistant
 
 > **Navigate Life. Not Limitations.**
 
