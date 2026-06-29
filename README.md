@@ -225,7 +225,7 @@ npm run dev
 
 ---
 
-# 🔮 Future Roadmap
+# Future Roadmap
 
 * Live government portal integration
 * Multilingual support
