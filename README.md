@@ -128,7 +128,7 @@ Provides quick, accessible emergency support designed for users with different a
 
 ---
 
-# ⚙️ How AURA Works
+#  How AURA Works
 
 ### 1️⃣ Understand
 
@@ -160,7 +160,7 @@ UiPath automates repetitive workflows including application filling, document up
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ### Frontend
 
@@ -190,7 +190,7 @@ UiPath automates repetitive workflows including application filling, document up
 
 ---
 
-# 🤖 UiPath Components
+#  UiPath Components
 
 * UiPath Studio
 * Agent Builder
@@ -203,7 +203,7 @@ UiPath automates repetitive workflows including application filling, document up
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ```bash
 git clone https://github.com/nisithaa-03/AURA-.git
